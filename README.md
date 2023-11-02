@@ -9,7 +9,7 @@ Update:
 Melissa Mosby's hypothesis: Purchases over $50 always are shipped via 2 day shipping.
 Update: GitHub branch created. Statisical anaylsis is almost complete.
 
-Stephanie Samperio hypothesis:
+Stephanie Samperio hypothesis: 2/3 states will be west coast.
 Update:
 
 Johnny Troung hypothesis:
