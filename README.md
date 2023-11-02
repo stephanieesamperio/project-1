@@ -12,5 +12,5 @@ Update: GitHub branch created. Statisical anaylsis is almost complete.
 Stephanie Samperio hypothesis:
 Update:
 
-Johnny Troung:
+Johnny Troung hypothesis:
 Update:
