@@ -9,7 +9,7 @@ Update:
 Melissa Mosby's hypothesis: Purchases over $50 always are shipped via express shipping.
 Update: GitHub branch created. Statisical anaylsis is almost complete.
 
-Stephanie Samperio hypothesis: 2/3 states will be west coast.
+Stephanie Samperio hypothesis: The top 3 states will spend 30% more than the average of all combined states.
 Update:
 
 Johnny Troung hypothesis:
