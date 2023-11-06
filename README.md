@@ -12,5 +12,5 @@ Update: GitHub branch created. Statisical anaylsis is almost complete.
 Stephanie Samperio hypothesis: The top 3 states will spend 30% more than the average of all combined states.
 Update:
 
-Johnny Troung hypothesis:
+Johnny Troung hypothesis: I believe that Gen Z makes more purchases than Millennials
 Update:
